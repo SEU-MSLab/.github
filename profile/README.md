@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+🙋 A short introduction - We are a research group from the State Key Laboratory of Millimeter Waves, Southeast University.
 
-**Here are some ideas to get you started:**
+🔬 Research interests - We focus on microwave technology for future scenarios, including signal processing algorithms, microwave circuits and components, and software hardware co-design of microwave system.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+👩 Useful resources - We have some open-source projects focus on digital predistortion software and hardware implementations. There will be more open-source projects soon!
+
+### Thank you for visiting our homepage. Together, let's shape the future of microwave technology.
